@@ -1,0 +1,11 @@
+C:\Users\Arishka\source\repos\AudioPlayer\bin\Debug\netcoreapp3.1\AudioPlayer.exe
+C:\Users\Arishka\source\repos\AudioPlayer\bin\Debug\netcoreapp3.1\AudioPlayer.deps.json
+C:\Users\Arishka\source\repos\AudioPlayer\bin\Debug\netcoreapp3.1\AudioPlayer.runtimeconfig.json
+C:\Users\Arishka\source\repos\AudioPlayer\bin\Debug\netcoreapp3.1\AudioPlayer.runtimeconfig.dev.json
+C:\Users\Arishka\source\repos\AudioPlayer\bin\Debug\netcoreapp3.1\AudioPlayer.dll
+C:\Users\Arishka\source\repos\AudioPlayer\bin\Debug\netcoreapp3.1\AudioPlayer.pdb
+C:\Users\Arishka\source\repos\AudioPlayer\obj\Debug\netcoreapp3.1\AudioPlayer.csprojAssemblyReference.cache
+C:\Users\Arishka\source\repos\AudioPlayer\obj\Debug\netcoreapp3.1\AudioPlayer.AssemblyInfoInputs.cache
+C:\Users\Arishka\source\repos\AudioPlayer\obj\Debug\netcoreapp3.1\AudioPlayer.AssemblyInfo.cs
+C:\Users\Arishka\source\repos\AudioPlayer\obj\Debug\netcoreapp3.1\AudioPlayer.dll
+C:\Users\Arishka\source\repos\AudioPlayer\obj\Debug\netcoreapp3.1\AudioPlayer.pdb
